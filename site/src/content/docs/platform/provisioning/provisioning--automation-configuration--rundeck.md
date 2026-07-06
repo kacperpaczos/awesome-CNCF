@@ -1,0 +1,73 @@
+---
+title: Rundeck
+description: "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts"
+domain: "platform"
+category: "Provisioning"
+subcategory: "Automation & Configuration"
+project_id: "provisioning--automation-configuration--rundeck"
+maturity: null
+openapi_status: todo
+---
+
+# Rundeck
+
+![Rundeck](/logos/c99d49442c7d782c640d4db4e03dbc33efaf43aabfaac637c91eb85e295e61b3.svg)
+
+**Domena:** [Platforma i infrastruktura](../index.md) · **Kategoria:** [Provisioning](index.md) · Automation & Configuration  
+**Open source:** tak
+
+## Opis
+
+Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+
+## Use cases
+
+- Rundeck: Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+- Automatyzacja provisioningu infrastruktury jako kod
+- Standaryzacja konfiguracji środowisk dev/stage/prod
+- Compliance i audyt zmian w klastrach Kubernetes
+- Budowa i utrzymanie platformy Kubernetes / cloud native
+
+_Sekcja wygenerowana heurystycznie — popraw według własnego doświadczenia._
+
+## Alternatywy
+
+- [KubeEdge](/platform/provisioning/provisioning--automation-configuration--kubeedge/) — Ta sama subkategoria: Automation & Configuration · CNCF graduated · ⭐ 7,475
+- [Cloud Custodian](/platform/provisioning/provisioning--automation-configuration--cloud-custodian/) — Ta sama subkategoria: Automation & Configuration · CNCF incubating · ⭐ 6,006
+- [OpenYurt](/platform/provisioning/provisioning--automation-configuration--openyurt/) — Ta sama subkategoria: Automation & Configuration · CNCF incubating · ⭐ 1,964
+- [metal3-io](/platform/provisioning/provisioning--automation-configuration--metal3-io/) — Ta sama subkategoria: Automation & Configuration · CNCF incubating · ⭐ 745
+
+## Dokumentacja
+
+- [Strona główna](https://www.rundeck.com/open-source)
+
+### Repozytoria
+
+- [rundeck](https://github.com/rundeck/rundeck)
+
+## OpenAPI
+
+> **TODO:** Pełna specyfikacja w submodule `openapi/provisioning--automation-configuration--rundeck` — aktualizacja przez CI/CD.
+
+| | |
+|---|---|
+| Status | `todo` |
+| Docelowy URL | [/openapi/provisioning--automation-configuration--rundeck/](/openapi/provisioning--automation-configuration--rundeck/) |
+| Submodule | `openapi/provisioning--automation-configuration--rundeck` |
+| Szukaj w repo | [źródło](https://github.com/rundeck/rundeck/tree/HEAD) |
+
+## Metadane CNCF
+
+| Pole | Wartość |
+|------|---------|
+| Accepted | — |
+| Graduated | — |
+| Incubating | — |
+| Archived | — |
+| CLOMonitor | — |
+
+## GitHub
+
+- Gwiazdki GitHub: **6,137**
+- Licencja: **Apache License 2.0**
+- Tematy: `ansible`, `audit`, `automation`, `category-distributed`, `deployment`, `devops`, `devops-team`, `devops-tools`, `hacktoberfest`, `java`, `operations`, `ops`, `orchestration`, `runbook`, `rundeck`, `scheduler`, `sre`

@@ -1,0 +1,72 @@
+---
+title: Apache bRPC
+description: "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. 'brpc' means…"
+domain: "platform"
+category: "Orchestration & Management"
+subcategory: "Remote Procedure Call"
+project_id: "orchestration-management--remote-procedure-call--apache-brpc"
+maturity: null
+openapi_status: todo
+---
+
+# Apache bRPC
+
+![Apache bRPC](/logos/51801f39204894908eea5dede7f7bc60163981ba446535676845c486f96fd7af.svg)
+
+**Domena:** [Platforma i infrastruktura](../index.md) · **Kategoria:** [Orchestration & Management](index.md) · Remote Procedure Call  
+**Open source:** tak
+
+## Opis
+
+brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
+
+## Use cases
+
+- Apache bRPC: brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC"
+- Zarządzanie cyklem życia aplikacji w klastrze
+- Polityki, szablony i abstrakcje dla developerów
+- Ekosystem / tag: `rpc` — typowe wdrożenia wokół Apache bRPC
+
+_Sekcja wygenerowana heurystycznie — popraw według własnego doświadczenia._
+
+## Alternatywy
+
+- [gRPC](/platform/orchestration-management/orchestration-management--remote-procedure-call--grpc/) — Ta sama subkategoria: Remote Procedure Call · CNCF incubating · ⭐ 44,884
+- [Connect RPC](/platform/orchestration-management/orchestration-management--remote-procedure-call--connect-rpc/) — Ta sama subkategoria: Remote Procedure Call · CNCF sandbox · ⭐ 3,938
+- [Dubbo](/platform/orchestration-management/orchestration-management--remote-procedure-call--dubbo/) — Ta sama subkategoria: Remote Procedure Call · ⭐ 41,520
+- [go-zero](/platform/orchestration-management/orchestration-management--remote-procedure-call--go-zero/) — Ta sama subkategoria: Remote Procedure Call · ⭐ 33,096
+
+## Dokumentacja
+
+- [Strona główna](https://brpc.apache.org/)
+
+### Repozytoria
+
+- [brpc](https://github.com/apache/brpc)
+
+## OpenAPI
+
+> **TODO:** Pełna specyfikacja w submodule `openapi/orchestration-management--remote-procedure-call--apache-brpc` — aktualizacja przez CI/CD.
+
+| | |
+|---|---|
+| Status | `todo` |
+| Docelowy URL | [/openapi/orchestration-management--remote-procedure-call--apache-brpc/](/openapi/orchestration-management--remote-procedure-call--apache-brpc/) |
+| Submodule | `openapi/orchestration-management--remote-procedure-call--apache-brpc` |
+| Szukaj w repo | [źródło](https://github.com/apache/brpc/tree/HEAD) |
+
+## Metadane CNCF
+
+| Pole | Wartość |
+|------|---------|
+| Accepted | — |
+| Graduated | — |
+| Incubating | — |
+| Archived | — |
+| CLOMonitor | — |
+
+## GitHub
+
+- Gwiazdki GitHub: **17,530**
+- Licencja: **Apache License 2.0**
+- Tematy: `rpc`

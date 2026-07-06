@@ -1,0 +1,69 @@
+---
+title: Twilio Functions
+description: "A serverless environment to build and run your Twilio code so you can get to production faster."
+domain: "applications"
+category: "Serverless"
+subcategory: "Hosted Platform"
+project_id: "serverless--hosted-platform--twilio-functions"
+maturity: null
+openapi_status: todo
+---
+
+# Twilio Functions
+
+![Twilio Functions](/logos/220441f9e8e974b73743e10d2d5491a474cef47f37d1251e8a1430c9814fe824.svg)
+
+**Domena:** [Aplikacje i delivery](../index.md) · **Kategoria:** [Serverless](index.md) · Hosted Platform  
+**Open source:** —
+
+## Opis
+
+A serverless environment to build and run your Twilio code so you can get to production faster.
+
+## Use cases
+
+- Twilio Functions: A serverless environment to build and run your Twilio code so you can get to production faster
+- Event-driven workloads bez zarządzania serwerami
+- Skalowanie do zera i pay-per-use
+
+_Sekcja wygenerowana heurystycznie — popraw według własnego doświadczenia._
+
+## Alternatywy
+
+- [Azure Functions](/applications/serverless/serverless--hosted-platform--azure-functions/) — Ta sama subkategoria: Hosted Platform · ⭐ 2,010
+- [Algorithmia](/applications/serverless/serverless--hosted-platform--algorithmia/) — Ta sama subkategoria: Hosted Platform
+- [Alibaba Cloud Function Compute](/applications/serverless/serverless--hosted-platform--alibaba-cloud-function-compute/) — Ta sama subkategoria: Hosted Platform
+- [Alibaba Cloud Serverless App Engine](/applications/serverless/serverless--hosted-platform--alibaba-cloud-serverless-app-engine/) — Ta sama subkategoria: Hosted Platform
+
+## Dokumentacja
+
+- [Strona główna](https://www.twilio.com/docs/serverless/functions-assets/functions)
+
+### Repozytoria
+
+- _Brak publicznego repozytorium_
+
+## OpenAPI
+
+> **TODO:** Pełna specyfikacja w submodule `openapi/serverless--hosted-platform--twilio-functions` — aktualizacja przez CI/CD.
+
+| | |
+|---|---|
+| Status | `todo` |
+| Docelowy URL | [/openapi/serverless--hosted-platform--twilio-functions/](/openapi/serverless--hosted-platform--twilio-functions/) |
+| Submodule | `openapi/serverless--hosted-platform--twilio-functions` |
+| Szukaj w repo | — |
+
+## Metadane CNCF
+
+| Pole | Wartość |
+|------|---------|
+| Accepted | — |
+| Graduated | — |
+| Incubating | — |
+| Archived | — |
+| CLOMonitor | — |
+
+## GitHub
+
+_Brak danych GitHub_

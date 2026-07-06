@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Cache scrapera (duże pliki)
+data/cache/
+
+# Build Astro (nie ignoruj site/ — to kod źródłowy wiki)
+site/node_modules/
+site/dist/
+site/.astro/
+
+# Środowisko
+.env
+.envrc
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Submoduły — zawartość zarządzana przez git submodule (później)
+# Na razie tylko .gitkeep w projects/, openapis/, documentations/
